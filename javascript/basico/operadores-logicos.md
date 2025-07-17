@@ -22,7 +22,7 @@ if (idade >= 18 && temCarteira) {
 ## 2. || – OR (OU lógico)
 
 Retorna `true` se pelo menos uma das expressões for verdadeira. Só retorna `false` se ambas forem falsas.
-```
+```javascript
 true || false   // true
 false || false  // false
 true || true    // true
@@ -43,7 +43,7 @@ Se for `true`, vira `false`.
 
 Se for `false`, vira `true`.
 
-```
+```javascript
 !true     // false
 !false    // true
 
