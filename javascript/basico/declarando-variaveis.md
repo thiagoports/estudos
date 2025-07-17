@@ -81,7 +81,7 @@ console.log(linguagem); // Python
 | `const`       | Não (referência)    | De bloco  | Constantes e preferido por padrão |
 | `var`         | Sim                 | De função | **Evitar no código moderno**      |
 
-# Dica de boas práticas
+# Dicas de boas práticas
 
 Use const por padrão, e só use let quando você realmente precisar alterar o valor.
 
