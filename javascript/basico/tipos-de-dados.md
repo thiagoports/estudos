@@ -16,11 +16,11 @@ let altura = 1.75;
 
 ## Números Especiais (Special Numbers):
 
-# Infinity – resultado de uma operação como 1 / 0.
+Infinity – resultado de uma operação como 1 / 0.
 
-# Infinity – negativo de Infinity.
+Infinity – negativo de Infinity.
 
-# NaN (Not a Number) – resultado de uma operação inválida com números, como 0 / "texto".
+NaN (Not a Number) – resultado de uma operação inválida com números, como 0 / "texto".
 
 ```javascript
 console.log(1 / 0);       // Infinity
