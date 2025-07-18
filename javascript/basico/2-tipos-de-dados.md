@@ -18,7 +18,7 @@ let altura = 1.75;
 
 Infinity – resultado de uma operação como 1 / 0.
 
-Infinity – negativo de Infinity.
+-Infinity – negativo de Infinity.
 
 NaN (Not a Number) – resultado de uma operação inválida com números, como 0 / "texto".
 
