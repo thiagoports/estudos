@@ -1,12 +1,12 @@
 # Objeto Math em JavaScript
 
-## 🔹 O que é o objeto Math?
+## O que é o objeto Math?
 
 O `Math` é um **objeto embutido** em JavaScript que fornece funções e constantes matemáticas. Ele **não é um construtor**, ou seja, não é usado com `new`.
 
 ---
 
-## 🔹 Como usar?
+## Como usar?
 
 Você acessa os métodos do `Math` diretamente:
 
