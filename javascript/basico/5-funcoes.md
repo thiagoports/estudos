@@ -1,4 +1,4 @@
-## Funções em JavaScript
+### Funções em JavaScript
 
 ## O que são funções?
 
@@ -7,9 +7,9 @@ Elas ajudam a **organizar, reutilizar e modularizar** o código.
 
 ---
 
-## Como declarar uma função
+### Como declarar uma função
 
-### Forma tradicional (declaração de função)
+## Forma tradicional (declaração de função)
 
 ```javascript
 function saudacao() {
@@ -89,7 +89,7 @@ function externa() {
 }
 ```
 
-## Por que usar funções?
+### Por que usar funções?
 
 Evita repetição de código
 
@@ -99,7 +99,7 @@ Facilita testes e manutenção
 
 Modulariza comportamentos
 
-## EXTRA: `alert()` e `prompt()`
+### EXTRA: `alert()` e `prompt()`
 `alert()`
 Exibe uma mensagem na tela em forma de caixa de alerta.
 
@@ -117,7 +117,7 @@ alert("Olá, " + nome);
 ```
 📌 Pouco usado, o design é simples e não personalizável, mas útil em testes e scripts rápidos.
 
-## Resumo
+### Resumo
 
 | Tipo               | Exemplo básico               | Uso principal                   |
 | ------------------ | ---------------------------- | ------------------------------- |
