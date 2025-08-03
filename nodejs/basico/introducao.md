@@ -50,7 +50,7 @@ Esse comando **inicia um novo projeto Node.js** interativamente, perguntando pas
 Esse comando **cria automaticamente o `package.json` com valores padrão**, sem fazer perguntas.
 
 ### Exemplo dos valores padrão:
-```javascript
+```json
 {
   "name": "meu-projeto",
   "version": "1.0.0",
@@ -85,7 +85,7 @@ Para reiniciar o servidor automaticamente, use o pacote nodemon:
 
 Adicione isso no `package.json`:
 
-```javascript
+```json
 "scripts": {
   "start": "node index.js",
   "dev": "nodemon index.js"
