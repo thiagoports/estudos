@@ -56,8 +56,8 @@ Esse comando **cria automaticamente o `package.json` com valores padrão**, sem 
   "version": "1.0.0",
   "main": "index.js",
   "license": "ISC"
-}```
-
+}
+```
 ---
 
 ### 2. Criando um servidor básico `index.js`
@@ -72,7 +72,8 @@ const server = http.createServer((req, res) => {
 
 server.listen(3000, () => {
   console.log('Servidor rodando em http://localhost:3000');
-});```
+});
+```
 
 ### Executar o servidor: `node index.js`
 
@@ -88,7 +89,8 @@ Adicione isso no `package.json`:
 "scripts": {
   "start": "node index.js",
   "dev": "nodemon index.js"
-}```
+}
+```
 
 ## Node.js é a base para muitos frameworks e ferramentas modernas de desenvolvimento web.
 
